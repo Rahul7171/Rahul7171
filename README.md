@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Rahul Bagal Banner](https://github.com/Rahul7171/My-Docs/blob/main/Web%20Designer%20LinkedIn%20Banner.jpg)
 <h2>Hey there! I'm Rahul</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
