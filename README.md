@@ -1,4 +1,4 @@
-![Rahul Bagal Banner](https://github.com/Rahul7171/My-Docs/blob/main/Gray%20Office%20Desk%20LinkedIn%20Banner.png)
+![Rahul Bagal Banner](https://github.com/rahul3002/My-Docs/blob/main/Hi%2C%20My%20Name%20Is%20Rahul%20Bagal.gif)
 <h2>Hey there! I'm Rahul</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
