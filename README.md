@@ -1,59 +1,123 @@
-![Rahul Bagal Banner](https://github.com/rahul3002/My-Docs/blob/main/Hi%2C%20My%20Name%20Is%20Rahul%20Bagal.gif)
-<h2>Hey there! I'm Rahul</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+![Rahul Bagal Banner](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-### 👨🏻‍💻 &nbsp;About Me
+# Rahul Bagal                                                                      
+Final year, B.E Computer Engineering                                                    
+Siddhant College Of Engineering, Pune, India                                       
+[E-mail](mailto:rahulbagal7171@gmail.com) | [LinkedIn](https://https://www.linkedin.com/in/rb12/) |  [Instagram](https://https://www.instagram.com/jobsforengineers2022/) | [Twitter](https://twitter.com/RahulBagal3002) | [YouTube](https://www.youtube.com/channel/UCvfY9VkXaFNxQJO7lfDV6Vw) | [GitHub](https://github.com/rahul3002)
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Siddhant College Of Engineering.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and [Blog](https://www.rahulbagal.software/) Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at rahulbagal7171@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1ayU_T7KvVs6XnJDVNm7JFj_WRZnCISdT/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+[Schedule a meet with me](https://calendly.com/sudip-mondal-2002/15min)
+## Skills
+<div align=right>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul3002&theme=highcontrast&langs_count=10&layout=compact" />
+    </a>
+</div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+* Machine Learning, Deep Learning with Computer Vision, Reinforcement learning.(TensorFlow & PyTorch)
+* Web Development (Full Stack, MERN/MEAN)
+* DevOps Engineering(With Azure, Docker, Kubernates etc.)
+* Data Structures and Algorithms
+* Native Android Development
+* Desktop GUI development
+* Game Development
+* Programming Languages: C++, C, Python, JavaScript, Java.
+* Version Control System, Git & GitHub
 
-### 🛠 &nbsp;Tech Stack
+## Tools and Technologies
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=GraphQl-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
-![InDesign](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/rahul3002">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul3002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahul3002&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=rahul3002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
+ </a>
+ 
+<p align="left">
+    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
+            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
+            alt="android studio" width="40" height="40" /> </a>
+    <a href="https://angular.io/" target="_blank" title ="Angular"> <img
+            src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
+            alt="angular" width="40" height="40" /> </a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
+            src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
+            alt="azure" width="50" height="35" /> </a>
+    <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
+            src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
+            alt="aws" width="40" height="40" /> </a>
+    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a>
+    <a href="https://bootstrapstudio.io/" target="_blank" title ="bootstrap studio"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/768px-Bootstrap_Studio_Logo.png"
+            alt="bootstrap studio" width="40" height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a>
+    <a href="https://ejs.co/" target="_blank" title ="EJS"> <img
+            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="Ejs" width="40"
+            height="40" /> </a>
+    <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
+            src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
+            alt="express" width="40" height="40" /> </a>
+    <a href="https://git-scm.com/" target="_blank" title ="git"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://heroku.com" target="_blank" title ="heroku"> 
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+            alt="heroku" width="40" height="40" /> </a>
+    <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a>
+    <a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
+            src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"
+            alt="ionic" width="40" height="40" /> </a>
+    <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
+            src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
+            alt="java" width="40" height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a>
+    <a href="https://jwt.io/" target="_blank" title ="JWT"> <img
+            src="https://jwt.io/img/pic_logo.svg"
+            alt="JWT" width="40" height="40" /> </a>
+    <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a>
+    <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://postman.com" target="_blank" title ="Postman"> <img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+            height="40" /> </a>
+    <a href="https://www.python.org" target="_blank" title ="Python"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
+    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a>
+    <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
+            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
+            alt="tkinter" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
+            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
+            alt="typescript" width="40" height="40" /> </a>
+    <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
+            src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
+            alt="unreal engine" width="40" height="40" /> </a>
+    <a href="https://www.xml.com/" target="_blank" title ="XML"> <img
+            src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"
+            alt="XML" width="40" height="40" /> </a>
+            
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<hr />
 
-<p align="center">
-<a href="https://linkedin.com/in/rahul7171"><img src="https://img.shields.io/badge/-Rahul Bagal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rahulbagal7171@gmail.com"><img src="https://img.shields.io/badge/-rahulbagal7171@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_rahul_7171__"><img src="https://img.shields.io/badge/-_rahul_7171___-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-</p>
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=rahul3002&theme=onedark&column=9" alt="zumrudu-anka" />
+    </a>
+</div>
