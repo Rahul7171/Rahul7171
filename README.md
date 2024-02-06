@@ -2,9 +2,7 @@
 ![Rahul Bagal Banner](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 # Rahul Bagal                              
-💼 I'm an Intern at CloudnativeSolutions, where I work on Kubernetes engine. Love helping students learn to code.
 
-I've been a Developer Advocate intern at CloudnativeSolutions since April 20222, and I'm interested in mentoring students who want to get into software engineering. I can also help with studying Python, machine learning, and web development.
 
 [E-mail](mailto:rahulbagal7171@gmail.com) | [LinkedIn](https://https://www.linkedin.com/in/rb12/) |  [Instagram](https://https://www.instagram.com/jobsforengineers2022/) | [Twitter](https://twitter.com/RahulBagal3002) | [YouTube]() | [GitHub](https://github.com/rahul3002)
 
